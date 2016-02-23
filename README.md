@@ -18,3 +18,38 @@ gotten around to releasing it.
 
 This project is being used for testing but is not guaranteed to be bug-free. If
 you have any problems, feel free to open an issue.
+
+# Example
+
+~~~
+# ./rdpy.py 192.0.2.1
+Target:      192.0.2.1
+Port:        3389 (default)
+Host Status: UP
+
+[+] Supported Protocols:
+	Standard RDP Security
+	TLS 1.0, 1.1 or 1.2 Security
+	Hybrid (TLS + CredSSP) Security
+
+[+] Supported Encryption Methods:
+	40 Bit
+	128 Bit
+	56 Bit
+
+[+] Supported Encryption Levels:
+	Client Compatible
+
+[+] Security Issues:
+	NLA supported but not mandated DoS
+	SSL supported but not mandated MitM
+	Weak RDP encryption supported
+
+[+] Server Messages:
+	(None)
+
+--------------------------------------------------
+
+Total Hosts:     1
+Listening Hosts: 1
+~~~
