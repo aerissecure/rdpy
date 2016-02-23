@@ -1,4 +1,4 @@
-# rdpy
+# RDPy
 RDPy is a python script for auditing the security of a Remote Desktop
 configuration.
 
