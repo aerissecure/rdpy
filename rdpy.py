@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # RDPy
 #
 # Copyright (C) 2013 Jeffrey Stiles (@uth_cr33p)(jeff@aerissecure.com)
